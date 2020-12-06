@@ -613,7 +613,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>18.75
    </td>
-   <td>0
+   <td>6.25
    </td>
     <td>0
    </td>
@@ -729,7 +729,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>12.5
    </td>
-   <td>0
+   <td>4.17
    </td>
    <td>0
    </td>
@@ -873,7 +873,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>6.25
    </td>
-   <td>0
+   <td>1.56
    </td>
     <td>0
    </td>
