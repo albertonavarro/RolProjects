@@ -11,8 +11,8 @@ Multi es una propuesta de sistema de tiradas para juegos de rol, que aplicado po
 
 
 *   Aplicación de dificultades a tiradas.
-*   Enfrentamientos entre rivales con altas probabilidades.
-*   Enfrentamientos entre rivales con bajas probabilidades.
+*   Enfrentamientos entre rivales con niveles altos (superheroes).
+*   Enfrentamientos entre rivales con niveles bajos (aprendices).
 *   Necesidad de cálculos complejos para conocer la probabilidad de una acción.
 *   Éxito y fracaso automático como parte del sistema.
 *   Abandona la monotonía de usar siempre los mismos dados.
@@ -1004,3 +1004,5 @@ A: Esto son solo recomendaciones para el sistema de juego que decida utilizar Mu
 
 **Q: ¿Cómo soluciona el sistema el enfrentamiento entre superheroes o entre aprendices?**
 A: Este sistema, al menos, facilita el siguiente mecanismo: Participate elige la dificultad de una tirada (sigilo, ocultar, atacar...), siendo el mínimo 1 y el máximo su nivel. Elegido la dificultad, realiza la tirada, y si es exitosa, el otro participante tiene que superar la tirada para esa dificultad. Esto significa que un superheroe puede poner tanto en aprietos con una tirada exitosa de dificultad alta, como un aprendiz a otro en dificultades mas bajas. Aplicable a pares ataque/defensa, ocultar/descubrir, sigilo/percepción, etc.
+
+Sistemas basados en 1d100 y similares se encontrarían con una larga sucesión de tiradas ataque/defensa en el caso de los superheroes, o una larga sucesión de tiradas falladas antes de encontrar el primer éxito en el caso de los aprendices. Ésto puede llegar a resultar aburrido.
