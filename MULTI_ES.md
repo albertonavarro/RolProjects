@@ -73,6 +73,9 @@ Si seguimos la secuencia de niveles, a partir de nivel siete podemos usar 2d4, p
 
 Cada cuatro niveles encontraremos que existe la opción de tener exito automatico en un nivel más. Ver tabla de combinaciones óptimas y estrategias conservadoras más abajo.
 
+Una aclaración sobre un desafio de nivel 2 y una habilidad con nivel 7. ¿Tiene éxito automático? Las reglas nos permiten elegir 2d4 para la tirada, y siempre sacará 2 o más, sin embargo, si el resultado fuera 8 aún así no contaría como éxito. Así que no, no hay éxito automático hasta llegar al múltiplo de 4.
+
+¿Qué ocurre con el nivel 9? ¿Tiene éxito automático para un desafío de nivel 2? Si el despistado jugador/a elige mal sus dados, 1d10, puede fallar la tirada. Por esta inconsistencia, la regla 1 permite reducir tu nivel voluntariamente, y si juega con nivel 8, entonces sí, el éxito es automático. Master, no seas así y dáselo por automático si no se dan cuenta.
 
 ### Conviene ajustar la suma de dados al nivel del jugador.
 
@@ -84,7 +87,7 @@ De la regla 2 se desprende que un jugador, de nivel 4, para una tirada de dificu
 Tirar una suma de dados lo más ajustada al nivel siempre es mejor que tirar una suma de dados supere esa combinación. Pero de cara a este sistema de tiradas, es una decisión del jugador, cuando no del sistema de aventuras que lo utilicen.
 
 
-### Existen varias combinaciones óptimas a partir de nivel 8
+### Existen varias combinaciones óptimas a partir de nivel 7
 
 Combinaciones óptimas para los primeros 12 niveles
 
@@ -600,8 +603,6 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>100
    </td>
-   <td>100
-   </td>
    <td>93.75
    </td>
    <td>81.25
@@ -613,6 +614,8 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    <td>18.75
    </td>
    <td>0
+   </td>
+    <td>0
    </td>
    <td>0
    </td>
@@ -712,8 +715,6 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>100
    </td>
-   <td>100
-   </td>
    <td>95.83
    </td>
    <td>87.5
@@ -727,6 +728,8 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    <td>25
    </td>
    <td>12.5
+   </td>
+   <td>0
    </td>
    <td>0
    </td>
@@ -854,8 +857,6 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>100
    </td>
-   <td>100
-   </td>
    <td>98.44
    </td>
    <td>93.75
@@ -873,6 +874,8 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    <td>6.25
    </td>
    <td>0
+   </td>
+    <td>0
    </td>
   </tr>
   <tr>
