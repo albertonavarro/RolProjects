@@ -21,6 +21,10 @@ Multi se aprovecha de propiedades inherentes a la manera de elegir los dados y e
 
 **Definiciones:**
 
+Éste es un **sistema de tiradas**, por lo que su ámbito está limitado a cuándo un desafío es superado usando dados y matemáticas sencillas. Para ser realmente útil, aún hace falta unas **sistema con ambientación** o al menos un **sistema genérico** y una **ambientación** por separados. 
+
+Una comparación con otros sistemas: _El Rastro de Cthulhu_ sería una **ambientación** sobre el **sistema genérico**  _Gumshoe_, que utiliza el **sistema de tiradas** "Un dado de 6 contra dificultad".
+
 Un **desafío** se produce cuando un personaje necesita superar un obstáculo en la partida. El personaje tendrá un nivel en la habilidad o característica relevante para el desafío, y el obstáculo presentará una dificultad para ser superado. Para los casos en los que se necesita una tirada para determinar si el obstáculo se supera, se contrapone nivel y dificultad.
 
 La capacidad de **éxito** en este sistema se expresa en **niveles**, siendo 1 el mínimo y no habiendo máximo.
@@ -1006,3 +1010,9 @@ A: Esto son solo recomendaciones para el sistema de juego que decida utilizar Mu
 A: Este sistema, al menos, facilita el siguiente mecanismo: Participate elige la dificultad de una tirada (sigilo, ocultar, atacar...), siendo el mínimo 1 y el máximo su nivel. Elegido la dificultad, realiza la tirada, y si es exitosa, el otro participante tiene que superar la tirada para esa dificultad. Esto significa que un superheroe puede poner tanto en aprietos con una tirada exitosa de dificultad alta, como un aprendiz a otro en dificultades mas bajas. Aplicable a pares ataque/defensa, ocultar/descubrir, sigilo/percepción, etc.
 
 Sistemas basados en 1d100 y similares se encontrarían con una larga sucesión de tiradas ataque/defensa en el caso de los superheroes, o una larga sucesión de tiradas falladas antes de encontrar el primer éxito en el caso de los aprendices. Ésto puede llegar a resultar aburrido.
+
+**Q: ¿No hay críticos ni pifias?**
+A: Están fuera del ámbito de un sistema de tiradas. Si una ambientación o un sistema genérico que use Multi como sistema de tiradas decide introducir reglas para críticos y pifias, bien estará, pero suele tratarse de margenes arbitrarios.
+
+**Q: ¿Hay niveles de éxito o fracaso?**
+A: Están fuera del ámbito de un sistema de tiradas. Pero podría tener sentido que una ambientación o un sistema genérico que use multi como sistema de tiradas decida que la diferencia entre la tirada y el umbral de éxito sea tomado en cuenta para definir la calidad del éxito, o haya diferentes niveles de éxito con resultados mucho mejores o mucho peores dependiendo de esa diferencia.
