@@ -1020,6 +1020,6 @@ A: Están fuera del ámbito de un sistema de tiradas. Si una ambientación o un 
 
 A: Están fuera del ámbito de un sistema de tiradas. Pero podría tener sentido que una ambientación o un sistema genérico que use multi como sistema de tiradas decida que la diferencia entre la tirada y el umbral de éxito sea tomado en cuenta para definir la calidad del éxito, o haya diferentes niveles de éxito con resultados mucho mejores o mucho peores dependiendo de esa diferencia.
 
-**Q: Me gusta el dado de 100, ¿Podría jugar con porcentajes usando las tablas precalculadas de este documento usando los niveles de los personajes y la dificultad de los obstaculos?
+**Q: Me gusta el dado de 100, ¿Podría jugar con porcentajes usando las tablas precalculadas de este documento usando los niveles de los personajes y la dificultad de los obstaculos?**
 
 A: Lo creas o no, fue la primera versión de este sistema, hasta que encontré un resultado similar sin tener que consultar tablas usando el sistema Multi. Así que: sí, puedes, pero es un dolor.
