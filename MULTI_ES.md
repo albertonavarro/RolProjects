@@ -1007,12 +1007,19 @@ A: Si, pero creo que es más fácil de asimilar en dos pasos. Las tres reglas se
 A: Esto son solo recomendaciones para el sistema de juego que decida utilizar Multi como sistema de tiradas: Un jugador borracho o lleno de ira podría tener prohibido usar estrategias conservadoras, o tener una percepción de su capacidad mayor, obligándole a usar dados por encima de su nivel. Un jugador especialmente miedoso podría estar obligado por el contrario a usar estrategias conservadoras únicamente, o niveles inferiores debido a su pobre percepción de sí mismo durante una parte de la partida. Una maldición podría eliminar un dado (por ejemplo el dado de 4 caras) haciendo que el jugador adapte sus tiradas para no usarlo... Estos son solo unos ejemplos de cómo se puede influenciar la decisión y ser parte del juego.
 
 **Q: ¿Cómo soluciona el sistema el enfrentamiento entre superheroes o entre aprendices?**
+
 A: Este sistema, al menos, facilita el siguiente mecanismo: Participate elige la dificultad de una tirada (sigilo, ocultar, atacar...), siendo el mínimo 1 y el máximo su nivel. Elegido la dificultad, realiza la tirada, y si es exitosa, el otro participante tiene que superar la tirada para esa dificultad. Esto significa que un superheroe puede poner tanto en aprietos con una tirada exitosa de dificultad alta, como un aprendiz a otro en dificultades mas bajas. Aplicable a pares ataque/defensa, ocultar/descubrir, sigilo/percepción, etc.
 
 Sistemas basados en 1d100 y similares se encontrarían con una larga sucesión de tiradas ataque/defensa en el caso de los superheroes, o una larga sucesión de tiradas falladas antes de encontrar el primer éxito en el caso de los aprendices. Ésto puede llegar a resultar aburrido.
 
 **Q: ¿No hay críticos ni pifias?**
+
 A: Están fuera del ámbito de un sistema de tiradas. Si una ambientación o un sistema genérico que use Multi como sistema de tiradas decide introducir reglas para críticos y pifias, bien estará, pero suele tratarse de margenes arbitrarios.
 
 **Q: ¿Hay niveles de éxito o fracaso?**
+
 A: Están fuera del ámbito de un sistema de tiradas. Pero podría tener sentido que una ambientación o un sistema genérico que use multi como sistema de tiradas decida que la diferencia entre la tirada y el umbral de éxito sea tomado en cuenta para definir la calidad del éxito, o haya diferentes niveles de éxito con resultados mucho mejores o mucho peores dependiendo de esa diferencia.
+
+**Q: Me gusta el dado de 100, ¿Podría jugar con porcentajes usando las tablas precalculadas de este documento usando los niveles de los personajes y la dificultad de los obstaculos?
+
+A: Lo creas o no, fue la primera versión de este sistema, hasta que encontré un resultado similar sin tener que consultar tablas usando el sistema Multi. Así que: sí, puedes, pero es un dolor.
