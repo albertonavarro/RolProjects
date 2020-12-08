@@ -188,7 +188,7 @@ Combinaciones óptimas para los primeros 12 niveles
    </td>
    <td>2d4
    </td>
-   <td>
+   <td>1d6 dif < 4
    </td>
    <td>
    </td>
@@ -212,7 +212,7 @@ Combinaciones óptimas para los primeros 12 niveles
    </td>
    <td>1d4+1d6
    </td>
-   <td>
+   <td>1d8 dif<5
    </td>
    <td>
    </td>
@@ -521,15 +521,15 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
   <tr>
    <td>5
    </td>
-   <td>100
-   </td>
    <td>83.33
    </td>
    <td>66.67
    </td>
    <td>50
    </td>
-   <td>33
+   <td>33.33
+   </td>
+   <td>16.67
    </td>
    <td>0
    </td>
@@ -575,9 +575,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>7 arriesgado
-   </td>
-   <td>100
+   <td>7 arriesgado (1d8)
    </td>
    <td>87.50
    </td>
@@ -591,6 +589,8 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>25
    </td>
+   <td>12.5
+   </td>
    <td>0
    </td>
    <td>0
@@ -603,21 +603,21 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>7 conservador
-   </td>
-   <td>100
+   <td>7 conservador (2d4)
    </td>
    <td>93.75
    </td>
-   <td>81.25
+   <td>93.75
    </td>
-   <td>62.5
+   <td>87.5
    </td>
-   <td>37.5
+   <td>75
    </td>
-   <td>18.75
+   <td>56.25
    </td>
-   <td>6.25
+   <td>31.25
+   </td>
+   <td>12.5
    </td>
     <td>0
    </td>
@@ -631,7 +631,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>8 arriesgado
+   <td>8 arriesgado (1d8)
    </td>
    <td>100
    </td>
@@ -659,7 +659,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>8 conservador
+   <td>8 conservador (2d4)
    </td>
    <td>100
    </td>
@@ -687,9 +687,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>9 arriesgado
-   </td>
-   <td>100
+   <td>9 arriesgado (1d10)
    </td>
    <td>90
    </td>
@@ -707,6 +705,8 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>20
    </td>
+   <td>10
+   </td>
    <td>0
    </td>
    <td>0
@@ -715,25 +715,25 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>9 conservador
-   </td>
-   <td>100
+   <td>9 conservador (1d6+1d4)
    </td>
    <td>95.83
    </td>
-   <td>87.5
+   <td>95.83
    </td>
-   <td>75
+   <td>91.66
    </td>
-   <td>58.33
+   <td>83.33
    </td>
-   <td>41.67
+   <td>70.83
    </td>
-   <td>25
+   <td>54.16
    </td>
-   <td>12.5
+   <td>37.5
    </td>
-   <td>4.17
+   <td>20.83
+   </td>
+   <td>8.33
    </td>
    <td>0
    </td>
@@ -799,9 +799,7 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
   </tr>
   <tr>
-   <td>11 arriesgado
-   </td>
-   <td>100
+   <td>11 arriesgado (1d12)
    </td>
    <td>91.67
    </td>
@@ -823,61 +821,63 @@ Este patrón se repite en niveles superiores, a más dados más conservadora es 
    </td>
    <td>16.67
    </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>11 medio
-   </td>
-   <td>100
-   </td>
-   <td>100
-   </td>
-   <td>97.22
-   </td>
-   <td>91.67
-   </td>
-   <td>83.33
-   </td>
-   <td>72.22
-   </td>
-   <td>58.33
-   </td>
-   <td>41.67
-   </td>
-   <td>27.78
-   </td>
-   <td>16.67
-   </td>
    <td>8.33
    </td>
    <td>0
    </td>
   </tr>
   <tr>
-   <td>11 conservador
+   <td>11 medio (2d6)
    </td>
-   <td>100
+   <td>97.22
    </td>
-   <td>100
+   <td>97.22
+   </td>
+   <td>94.44
+   </td>
+   <td>88.88
+   </td>
+   <td>80.55
+   </td>
+   <td>69.44
+   </td>
+   <td>55.55
+   </td>
+   <td>38.88
+   </td>
+   <td>25
+   </td>
+   <td>13.88
+   </td>
+   <td>5.55
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td>11 conservador (3d4)
+   </td>
+   <td>98.44 
    </td>
    <td>98.44
    </td>
-   <td>93.75
+   <td>98.44
    </td>
-   <td>84.38
+   <td>96.88
    </td>
-   <td>68.75
+   <td>92.19
    </td>
-   <td>50
+   <td>82.81
    </td>
-   <td>31.25
+   <td>67.18 
+   </td>
+   <td>48.43
+   </td>
+   <td>29.68
    </td>
    <td>15.63
    </td>
-   <td>6.25
-   </td>
-   <td>1.56
+   <td>4.67
    </td>
     <td>0
    </td>
