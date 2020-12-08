@@ -1023,3 +1023,7 @@ A: Están fuera del ámbito de un sistema de tiradas. Pero podría tener sentido
 **Q: Me gusta el dado de 100, ¿Podría jugar con porcentajes usando las tablas precalculadas de este documento usando los niveles de los personajes y la dificultad de los obstaculos?**
 
 A: Lo creas o no, fue la primera versión de este sistema, hasta que encontré un resultado similar sin tener que consultar tablas usando el sistema Multi. Así que: sí, puedes, pero es un dolor.
+
+**Q: Los niveles impares y los menores de cuatro hacen el sistema mas complicado. ¿Y si los quitas?**
+
+A: Pues lo he pensado, pero creo que corresponde al sistema de reglas el eliminarlo y darle sentido a los niveles. Por ejemplo, niveles 1-4 reservados para niños, 5-8 para adolescentes y adultos no profesionales, y 9-12 para profesionales, atletas, etc. De esta manera, desafíos por debajo de 4 se podrían obviar y reducir todo más o menos a pares.
