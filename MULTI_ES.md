@@ -64,11 +64,13 @@ _Con nivel 8 y dificultad 4, el resultado de 1d8 de 1, 2, 3  es fallo, 4, 5, 6, 
 
 Algunas ideas de como puede ser utilizado este sistema de tiradas. Aunque son decisiones que corresponden al sistema de reglas que finalmente lo utilice:
 
-_Ejemplo de habilidad no competitiva: Alicia necesita atravesar el río, y lo hará nadando con su nivel 6, la dificultad es de nivel 2, es sencillo, 2 o más en un dado de seis caras. Saca 4: éxito_
+_Ejemplo de habilidad no competitiva: Alicia necesita atravesar el río, y lo hará nadando con su nivel 6, la dificultad es de nivel 2, es sencillo, 2 o más en un dado de seis caras. Saca 4: éxito. Alex tiene nivel 8, no hace falta que tire, el nivel 2 se considera éxito automático ya que usaría 2d4 para obtener 2 o más._
 
 _Ejemplo de habilidad competitiva: Bob quiere ser sigiloso para no detectado por Carlos. Las reglas dicen que Carlos tirara por su nivel y Carlos usara su percepción para detectarle a la dificultad indicada. Es decir, Bob siempre tiene éxito, pero a un resultado mejor o peor. Tiene sigilo 8 por lo que tiene que elegir si tira 1d8 o 2d4. Decide ser conservador, tira dos dados de cuatro y obtiene un 5. Ahora Carlos (PJ o PNJ) enfrentaría su percepción a esa dificultad: 5._
 
-_Ejemplo de combate con Multi: Diana sostiene su espada con una mano, mira a Elena y sopesa sus opciones, ¿debería ir a por todas o cansarla? Tiene un nivel 10 de espada, y decide realizar un ataque de nivel 8. Si acierta, es un valor que Elena no podrá contrarrestar, si falla perderá la iniciativa y Elena será quien ataque. Tira 1d10 y obtiene un 9, falla._
+_Ejemplo de combate con Multi: Diana sostiene su espada con una mano, mira a Elena y sopesa sus opciones, ¿debería ir a por todas o cansarla? Tiene un nivel 10 de espada, y decide realizar un ataque de nivel 8. Si acierta, es un valor que Elena no podrá contrarrestar, si falla perderá la iniciativa y Elena será quien ataque. Tira 1d10 y obtiene un 7, falla (exito es siempre por encima de la dificultad y por debajo de la habilidad del personaje). Si hubiera decidido ser menos atrevida no hubiera cometido este error. De alguna manera, este sistema traduciría la elección del daño a una gama de diferentes ataques posibles con la espada, desde ir a arañar el brazo hasta tirar contra la yugular_
+
+_Fred esta borracho, el master no le dejará utilizar ninguna opción conservadora durante el resto de la noche._
 
 Como podemos ver, este sistema integra Nivel, Dificultad y Decisiones en un muy corto espacio narrativo.
 
